@@ -12,12 +12,12 @@
   <DisplayName DefaultValue="Traducteur EN-CN" />
   <Description DefaultValue="Ajoute des traductions en chinois simplifié aux emails en anglais"/>
   
-  <IconUrl DefaultValue="https://votre-serveur.com/assets/icon-32.png" />
-  <HighResolutionIconUrl DefaultValue="https://votre-serveur.com/assets/icon-80.png" />
-  <SupportUrl DefaultValue="https://votre-serveur.com/support" />
+  <IconUrl DefaultValue="https://jert0.github.io/outlook-translator/assets/icon-32.png" />
+  <HighResolutionIconUrl DefaultValue="https://jert0.github.io/outlook-translator/assets/icon-80.png" />
+  <SupportUrl DefaultValue="https://jert0.github.io/outlook-translator/support" />
   
   <AppDomains>
-    <AppDomain>https://votre-serveur.com</AppDomain>
+    <AppDomain>https://jert0.github.io/outlook-translator</AppDomain>
   </AppDomains>
   
   <Hosts>
@@ -33,7 +33,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://votre-serveur.com/taskpane.html"/>
+        <SourceLocation DefaultValue="https://jert0.github.io/outlook-translator/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -103,13 +103,13 @@
     
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://votre-serveur.com/assets/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://votre-serveur.com/assets/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://votre-serveur.com/assets/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://jert0.github.io/outlook-translator/assets/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://jert0.github.io/outlook-translator/assets/icon-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://jert0.github.io/outlook-translator/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://votre-serveur.com/commands.html" />
-        <bt:Url id="Taskpane.Url" DefaultValue="https://votre-serveur.com/taskpane.html" />
+        <bt:Url id="Commands.Url" DefaultValue="https://jert0.github.io/outlook-translator/commands.html" />
+        <bt:Url id="Taskpane.Url" DefaultValue="https://jert0.github.io/outlook-translator/taskpane.html" />
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="Traduction CN"/>
